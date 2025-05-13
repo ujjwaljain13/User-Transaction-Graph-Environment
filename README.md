@@ -2,7 +2,6 @@
 
 A comprehensive system to visualize relationships between users, companies, and transactions using graph database technology. This tool helps identify connections and patterns in financial transactions and business relationships.
 
-![Graph Visualization](docs/images/graph-visualization.png)
 
 ## Quick Start with Docker
 
